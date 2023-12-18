@@ -1,0 +1,7 @@
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\mphasis\Phase-2\day8\Assignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
